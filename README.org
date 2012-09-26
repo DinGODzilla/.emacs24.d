@@ -1,0 +1,3 @@
+* This is my personal .emacs file for Emacs 24
+
+Nothing really special.
